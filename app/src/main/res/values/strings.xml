@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComProj</string>
+    <string name="splash_info">Daily appreciation</string>
+    <string name="splash_step_out">跳过</string>
+</resources>
